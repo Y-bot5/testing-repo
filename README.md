@@ -14,3 +14,6 @@ system.runInterval(() => {
     }  
 }, 60);  
 ```  
+<button onclick="copyCode()">Copy</button>
+
+<script src=buttonClick.js defer></script>
