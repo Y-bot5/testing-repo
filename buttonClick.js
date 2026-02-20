@@ -1,6 +1,6 @@
 async function copyCode() {
         // Get the element
-            const codeElement = document.getElementById("code");
+            const codeElement = document.querySelector("code");
                 // Get the text content
                     const textToCopy = codeElement.textContent;
 
